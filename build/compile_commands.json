@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/rakaneth/dev/C/rl-geom/rl-geom/build",
+  "command": "/usr/bin/gcc  -I/home/rakaneth/dev/C/rl-geom/rl-geom -g -o CMakeFiles/rl_geom.dir/geom.c.o -c /home/rakaneth/dev/C/rl-geom/rl-geom/geom.c",
+  "file": "/home/rakaneth/dev/C/rl-geom/rl-geom/geom.c"
+}
+]

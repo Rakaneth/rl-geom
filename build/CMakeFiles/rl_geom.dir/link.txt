@@ -1,0 +1,2 @@
+/usr/bin/ar qc librl_geom.a CMakeFiles/rl_geom.dir/geom.c.o
+/usr/bin/ranlib librl_geom.a
